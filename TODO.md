@@ -1,0 +1,24 @@
+# Ayurvedic Medicine Website Project TODO
+
+- [x] Create package.json with dependencies (Express, body-parser)
+- [x] Create server.js (Express server with routes for static files and form handling)
+- [x] Create index.html (Main page with Ayurvedic info, contact form, remedy query form, image galleries)
+- [x] Create styles.css (Herbal-themed styling)
+- [x] Create script.js (Handle form submissions and interactivity)
+- [x] Create images folder and add placeholder images for herbs (e.g., turmeric.jpg, ashwagandha.jpg)
+- [x] Install dependencies with npm install
+- [x] Run server with npm start (starts on localhost:3000)
+- [x] Test the website by opening in browser and verifying forms/images
+- [x] Provide output: Description and screenshot of the running website
+- [x] Download actual herb images (turmeric.jpg, ashwagandha.jpg, ginger.jpg) - Used placeholders due to download issues
+- [x] Create about.html (dedicated Ayurveda info page)
+- [x] Create herbs.html (herb gallery page)
+- [x] Create contact.html (forms page)
+- [x] Update index.html for navigation menu
+- [x] Update styles.css for navigation styling
+- [x] Update server.js for new page routes
+- [x] Restart server to apply changes
+- [x] Test multi-page website, images, and forms
+- [x] Enhanced to multi-page structure (Home, About, Herbs, Contact)
+- [x] Added more herb images and detailed info
+- [x] Added images to all pages for comprehensiveness
